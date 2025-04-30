@@ -289,15 +289,15 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           dexcom_upload_readings \
-          future_carbs_4h/ 
-          override_sens/ 
-          now_line/ 
-          watch_title/ 
-          2hlollipop/ 
-          meal_days/ 
-          profiles/ 
-          basal_lock/ 
-          live_activity/ 
+          future_carbs_4h / 
+          override_sens / 
+          now_line / 
+          watch_title / 
+          2hlollipop / 
+          meal_days / 
+          profiles / 
+          basal_lock / 
+          live_activity / 
           negative_insulin 
         
           
